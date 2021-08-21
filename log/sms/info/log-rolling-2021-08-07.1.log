@@ -1,0 +1,7 @@
+2021-08-07 18:36:06 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.sms.ServiceSMSApplication Started ServiceSMSApplication in 13.283 seconds (JVM running for 16.041)
+2021-08-07 18:36:24 [ERROR] http-nio-8120-exec-2 GlobalExceptionHandler.java:30 net.dreamparadise.common.exception.GlobalExceptionHandler com.netflix.client.ClientException: Load balancer does not have available server for client: service-core
+2021-08-07 18:37:20 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev
+2021-08-07 18:37:28 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.sms.ServiceSMSApplication Started ServiceSMSApplication in 12.012 seconds (JVM running for 14.533)
+2021-08-07 18:37:33 [INFO ] http-nio-8120-exec-5 ApiSMSController.java:45 net.dreamparadise.sms.controller.ApiSMSController true
+2021-08-07 18:38:32 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev
+2021-08-07 18:38:41 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.sms.ServiceSMSApplication Started ServiceSMSApplication in 11.784 seconds (JVM running for 14.431)

@@ -1,0 +1,10 @@
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] content-type: application/json
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] date: Sun, 08 Aug 2021 18:06:43 GMT
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] keep-alive: timeout=60
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] transfer-encoding: chunked
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] vary: Access-Control-Request-Headers
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] vary: Access-Control-Request-Method
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] vary: Origin
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] 
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] {"code":0,"message":"成功","data":{"isExist":true}}
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] <--- END HTTP (53-byte body)

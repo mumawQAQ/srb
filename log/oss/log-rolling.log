@@ -1,0 +1,4 @@
+2021-08-15 21:36:05 [INFO ] main SpringApplication.java:655 net.dreamparadise.oss.ServiceOssApplication The following profiles are active: dev
+2021-08-15 21:36:14 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.oss.ServiceOssApplication Started ServiceOssApplication in 15.944 seconds (JVM running for 19.634)
+2021-08-15 22:55:16 [INFO ] main SpringApplication.java:655 net.dreamparadise.oss.ServiceOssApplication The following profiles are active: dev
+2021-08-15 22:55:26 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.oss.ServiceOssApplication Started ServiceOssApplication in 17.531 seconds (JVM running for 22.575)

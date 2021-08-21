@@ -1,0 +1,6 @@
+2021-07-28 19:55:45 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 11.268 seconds (JVM running for 13.477)
+2021-07-28 20:24:22 [INFO ] main StartupInfoLogger.java:55 net.dreamparadise.srb.core.ControllerTest Starting ControllerTest on DESKTOP-9NU4JII with PID 5004 (started by Scott in C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb\service-core)
+2021-07-28 20:24:22 [INFO ] main SpringApplication.java:655 net.dreamparadise.srb.core.ControllerTest The following profiles are active: dev
+2021-07-28 20:24:31 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.srb.core.ControllerTest Started ControllerTest in 9.802 seconds (JVM running for 11.764)
+2021-07-28 21:55:25 [INFO ] main StartupInfoLogger.java:55 net.dreamparadise.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-9NU4JII with PID 16340 (C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb\service-core\target\classes started by Scott in C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb)
+2021-07-28 21:55:25 [INFO ] main SpringApplication.java:655 net.dreamparadise.srb.core.ServiceCoreApplication The following profiles are active: dev

@@ -1,0 +1,9 @@
+2021-08-08 19:28:48 [DEBUG] http-nio-8120-exec-9 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> GET http://server-core/api/core/userInfo/checkMobile/%2B13478211187 HTTP/1.1
+2021-08-08 19:28:48 [DEBUG] http-nio-8120-exec-9 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> END HTTP (0-byte body)
+2021-08-08 19:28:48 [DEBUG] http-nio-8120-exec-9 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] <--- HTTP/1.1 200 (7ms)
+2021-08-08 19:28:48 [DEBUG] http-nio-8120-exec-9 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] connection: keep-alive
+2021-08-08 19:28:48 [DEBUG] http-nio-8120-exec-9 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] content-type: application/json
+2021-08-08 19:28:48 [DEBUG] http-nio-8120-exec-9 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] date: Sun, 08 Aug 2021 23:28:48 GMT
+2021-08-08 19:28:48 [DEBUG] http-nio-8120-exec-9 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] keep-alive: timeout=60
+2021-08-08 19:28:48 [DEBUG] http-nio-8120-exec-9 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] transfer-encoding: chunked
+2021-08-08 19:28:48 [DEBUG] http-nio-8120-exec-9 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] 

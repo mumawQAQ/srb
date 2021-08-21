@@ -1,0 +1,5 @@
+2021-08-01 18:08:22 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 8.715 seconds (JVM running for 11.615)
+2021-08-01 18:08:25 [ERROR] http-nio-8110-exec-1 GlobalExceptionHandler.java:30 net.dreamparadise.common.exception.GlobalExceptionHandler HV000030: No validator could be found for constraint 'javax.validation.constraints.NotEmpty' validating type 'java.lang.Integer'. Check configuration for 'userType'
+2021-08-01 18:11:13 [INFO ] main StartupInfoLogger.java:55 net.dreamparadise.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-9NU4JII with PID 1604 (C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb\service-core\target\classes started by Scott in C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb)
+2021-08-01 18:11:13 [INFO ] main SpringApplication.java:655 net.dreamparadise.srb.core.ServiceCoreApplication The following profiles are active: dev
+2021-08-01 18:11:21 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 8.244 seconds (JVM running for 10.647)

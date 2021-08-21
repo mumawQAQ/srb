@@ -1,0 +1,43 @@
+server:
+  port: 8120
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: service-sms
+  redis:
+    host: "192.168.190.129"
+    port: 6379
+    database: 0
+    timeout: 3000ms
+    lettuce:
+      pool:
+        max-active: 20
+        max-wait: -1
+        max-idle: 9
+        min-idle: 0
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+
+twilio:
+  sms:
+    accountSid: "AC699cdc6b2caf8a4181fab949c3d94cf8"
+    authToken: "30dc0e9f68a6da39e921a6d67afba21f"
+    orgNumber: "+16172297274"
+
+feign:
+  client:
+    config:
+     default:
+       connectTimeout: 10000
+       readTimeout: 600000
+  sentinel:
+    enabled: true
+
+logging:
+  level:
+    net.dreamparadise.sms: debug

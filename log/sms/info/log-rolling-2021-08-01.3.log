@@ -1,0 +1,6 @@
+2021-08-01 16:15:37 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.sms.ServiceSMSApplication Started ServiceSMSApplication in 8.949 seconds (JVM running for 13.589)
+2021-08-01 16:31:13 [INFO ] main StartupInfoLogger.java:55 net.dreamparadise.sms.ServiceSMSApplication Starting ServiceSMSApplication on DESKTOP-9NU4JII with PID 16192 (C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb\service-sms\target\classes started by Scott in C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb)
+2021-08-01 16:31:13 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev
+2021-08-01 16:31:21 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.sms.ServiceSMSApplication Started ServiceSMSApplication in 9.286 seconds (JVM running for 12.421)
+2021-08-01 20:36:26 [INFO ] main StartupInfoLogger.java:55 net.dreamparadise.sms.ServiceSMSApplication Starting ServiceSMSApplication on DESKTOP-9NU4JII with PID 9652 (C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb\service-sms\target\classes started by Scott in C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb)
+2021-08-01 20:36:26 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev

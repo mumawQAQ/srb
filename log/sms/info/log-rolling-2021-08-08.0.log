@@ -1,0 +1,6 @@
+2021-08-08 14:05:02 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev
+2021-08-08 14:05:12 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.sms.ServiceSMSApplication Started ServiceSMSApplication in 13.094 seconds (JVM running for 15.786)
+2021-08-08 14:06:41 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> GET http://server-core/api/core/userInfo/checkMobile/%2B13478211187 HTTP/1.1
+2021-08-08 14:06:41 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> END HTTP (0-byte body)
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] <--- HTTP/1.1 200 (2098ms)
+2021-08-08 14:06:43 [DEBUG] http-nio-8120-exec-7 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] connection: keep-alive

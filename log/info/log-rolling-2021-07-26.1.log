@@ -1,0 +1,6 @@
+2021-07-26 20:35:05 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 8.622 seconds (JVM running for 11.719)
+2021-07-26 22:02:05 [INFO ] main StartupInfoLogger.java:55 net.dreamparadise.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-9NU4JII with PID 3704 (C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb\service-core\target\classes started by Scott in C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb)
+2021-07-26 22:02:05 [INFO ] main SpringApplication.java:655 net.dreamparadise.srb.core.ServiceCoreApplication The following profiles are active: dev
+2021-07-26 22:02:13 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 10.018 seconds (JVM running for 12.786)
+2021-07-26 22:33:12 [INFO ] main StartupInfoLogger.java:55 net.dreamparadise.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-9NU4JII with PID 13832 (C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb\service-core\target\classes started by Scott in C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb)
+2021-07-26 22:33:12 [INFO ] main SpringApplication.java:655 net.dreamparadise.srb.core.ServiceCoreApplication The following profiles are active: dev

@@ -1,0 +1,6 @@
+2021-07-27 13:28:05 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 7.99 seconds (JVM running for 10.252)
+2021-07-27 13:41:05 [INFO ] main StartupInfoLogger.java:55 net.dreamparadise.srb.core.RedisTemplateTests Starting RedisTemplateTests on DESKTOP-9NU4JII with PID 10928 (started by Scott in C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb\service-core)
+2021-07-27 13:41:05 [INFO ] main SpringApplication.java:655 net.dreamparadise.srb.core.RedisTemplateTests The following profiles are active: dev
+2021-07-27 13:41:15 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.srb.core.RedisTemplateTests Started RedisTemplateTests in 10.352 seconds (JVM running for 12.967)
+2021-07-27 15:32:03 [INFO ] main StartupInfoLogger.java:55 net.dreamparadise.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-9NU4JII with PID 20696 (C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb\service-core\target\classes started by Scott in C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb)
+2021-07-27 15:32:03 [INFO ] main SpringApplication.java:655 net.dreamparadise.srb.core.ServiceCoreApplication The following profiles are active: dev

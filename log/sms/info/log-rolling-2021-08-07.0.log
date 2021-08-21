@@ -1,0 +1,7 @@
+2021-08-01 20:36:32 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.sms.ServiceSMSApplication Started ServiceSMSApplication in 7.089 seconds (JVM running for 10.275)
+2021-08-07 16:38:55 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev
+2021-08-07 16:39:06 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.sms.ServiceSMSApplication Started ServiceSMSApplication in 16.191 seconds (JVM running for 19.735)
+2021-08-07 18:11:41 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev
+2021-08-07 18:14:57 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev
+2021-08-07 18:15:04 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.sms.ServiceSMSApplication Started ServiceSMSApplication in 11.24 seconds (JVM running for 14.556)
+2021-08-07 18:35:57 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev

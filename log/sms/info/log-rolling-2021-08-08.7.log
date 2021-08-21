@@ -1,0 +1,6 @@
+2021-08-08 17:58:40 [DEBUG] http-nio-8120-exec-4 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> END HTTP (0-byte body)
+2021-08-08 17:58:40 [INFO ] http-nio-8120-exec-4 ApiSMSController.java:45 net.dreamparadise.sms.controller.ApiSMSController false
+2021-08-08 19:03:54 [DEBUG] http-nio-8120-exec-5 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> GET http://server-core/api/core/userInfo/checkMobile/%2B13478211187 HTTP/1.1
+2021-08-08 19:03:54 [DEBUG] http-nio-8120-exec-5 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> END HTTP (0-byte body)
+2021-08-08 19:03:54 [DEBUG] http-nio-8120-exec-5 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] <--- HTTP/1.1 200 (101ms)
+2021-08-08 19:03:54 [DEBUG] http-nio-8120-exec-5 Slf4jLogger.java:72 net.dreamparadise.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] connection: keep-alive

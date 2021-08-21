@@ -1,0 +1,8 @@
+2021-08-08 19:03:53 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.gateway.ServiceGatewayApplication Started ServiceGatewayApplication in 15.288 seconds (JVM running for 17.156)
+2021-08-08 19:09:26 [INFO ] main SpringApplication.java:655 net.dreamparadise.gateway.ServiceGatewayApplication The following profiles are active: dev
+2021-08-08 19:09:45 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.gateway.ServiceGatewayApplication Started ServiceGatewayApplication in 22.943 seconds (JVM running for 25.017)
+2021-08-08 19:11:43 [INFO ] main SpringApplication.java:655 net.dreamparadise.gateway.ServiceGatewayApplication The following profiles are active: dev
+2021-08-08 19:11:54 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.gateway.ServiceGatewayApplication Started ServiceGatewayApplication in 14.123 seconds (JVM running for 16.085)
+2021-08-08 19:13:39 [INFO ] main SpringApplication.java:655 net.dreamparadise.gateway.ServiceGatewayApplication The following profiles are active: dev
+2021-08-08 19:13:49 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.gateway.ServiceGatewayApplication Started ServiceGatewayApplication in 13.083 seconds (JVM running for 14.834)
+2021-08-08 19:14:26 [INFO ] main SpringApplication.java:655 net.dreamparadise.gateway.ServiceGatewayApplication The following profiles are active: dev

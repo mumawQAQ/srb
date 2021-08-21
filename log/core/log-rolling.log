@@ -1,0 +1,5 @@
+2021-08-08 19:10:50 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 19.997 seconds (JVM running for 23.968)
+2021-08-08 19:14:22 [INFO ] main SpringApplication.java:655 net.dreamparadise.srb.core.ServiceCoreApplication The following profiles are active: dev
+2021-08-08 19:14:45 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 28.826 seconds (JVM running for 31.444)
+2021-08-08 19:34:21 [INFO ] main SpringApplication.java:655 net.dreamparadise.srb.core.ServiceCoreApplication The following profiles are active: dev
+2021-08-08 19:34:33 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 16.248 seconds (JVM running for 18.903)

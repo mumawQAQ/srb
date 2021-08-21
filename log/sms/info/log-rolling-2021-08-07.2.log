@@ -1,0 +1,7 @@
+2021-08-07 18:38:44 [INFO ] http-nio-8120-exec-4 ApiSMSController.java:45 net.dreamparadise.sms.controller.ApiSMSController true
+2021-08-07 18:39:58 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev
+2021-08-07 18:40:02 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev
+2021-08-07 18:40:13 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.sms.ServiceSMSApplication Started ServiceSMSApplication in 16.465 seconds (JVM running for 19.41)
+2021-08-07 18:40:32 [INFO ] main SpringApplication.java:655 net.dreamparadise.sms.ServiceSMSApplication The following profiles are active: dev
+2021-08-07 18:40:40 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.sms.ServiceSMSApplication Started ServiceSMSApplication in 12.462 seconds (JVM running for 15.182)
+2021-08-07 18:40:47 [INFO ] http-nio-8120-exec-1 ApiSMSController.java:45 net.dreamparadise.sms.controller.ApiSMSController true

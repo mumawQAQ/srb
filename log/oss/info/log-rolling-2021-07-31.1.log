@@ -1,0 +1,6 @@
+2021-07-31 16:47:17 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.oss.ServiceOssApplication Started ServiceOssApplication in 6.018 seconds (JVM running for 9.065)
+2021-07-31 16:52:04 [INFO ] main StartupInfoLogger.java:55 net.dreamparadise.oss.ServiceOssApplication Starting ServiceOssApplication on DESKTOP-9NU4JII with PID 13160 (C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb\service-oss\target\classes started by Scott in C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb)
+2021-07-31 16:52:04 [INFO ] main SpringApplication.java:655 net.dreamparadise.oss.ServiceOssApplication The following profiles are active: dev
+2021-07-31 16:52:09 [INFO ] main StartupInfoLogger.java:61 net.dreamparadise.oss.ServiceOssApplication Started ServiceOssApplication in 5.804 seconds (JVM running for 8.792)
+2021-07-31 16:52:47 [INFO ] main StartupInfoLogger.java:55 net.dreamparadise.oss.ServiceOssApplication Starting ServiceOssApplication on DESKTOP-9NU4JII with PID 15116 (C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb\service-oss\target\classes started by Scott in C:\Users\Scott\Desktop\prograss\springcloudStudy\finalProject\srb)
+2021-07-31 16:52:47 [INFO ] main SpringApplication.java:655 net.dreamparadise.oss.ServiceOssApplication The following profiles are active: dev

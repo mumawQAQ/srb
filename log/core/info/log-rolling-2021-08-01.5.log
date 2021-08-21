@@ -1,0 +1,9 @@
+2021-08-01 17:02:16 [ERROR] http-nio-8110-exec-2 GlobalExceptionHandler.java:30 net.dreamparadise.common.exception.GlobalExceptionHandler 
+### Error updating database.  Cause: com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'mobile' at row 1
+### The error may exist in net/dreamparadise/srb/core/mapper/UserInfoMapper.java (best guess)
+### The error may involve net.dreamparadise.srb.core.mapper.UserInfoMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user_info  ( user_type, mobile, password, nick_name, name,    head_img,     status )  VALUES  ( ?, ?, ?, ?, ?,    ?,     ? )
+### Cause: com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'mobile' at row 1
+; Data truncation: Data too long for column 'mobile' at row 1; nested exception is com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'mobile' at row 1
+2021-08-01 17:05:25 [INFO ] http-nio-8110-exec-4 Assert.java:44 net.dreamparadise.common.exception.Assert fail...............
