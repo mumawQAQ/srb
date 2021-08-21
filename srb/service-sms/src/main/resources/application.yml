@@ -25,9 +25,9 @@ spring:
 
 twilio:
   sms:
-    accountSid: "AC699cdc6b2caf8a4181fab949c3d94cf8"
-    authToken: "30dc0e9f68a6da39e921a6d67afba21f"
-    orgNumber: "+16172297274"
+    accountSid: "sid"
+    authToken: "token"
+    orgNumber: "num"
 
 feign:
   client:
